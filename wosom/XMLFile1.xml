@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Automation>
+	<Execution>
+		<Login>
+			<firstname>kamran</firstname>
+			<lastname>kamran</lastname>
+			<Location>Afghanistan</Location>
+			<email>Pakistan@12.com</email>
+			<password>AmirTester</password>
+			<phoneno>3224879524</phoneno>
+			<month>08</month>
+			<date>08</date>
+			<year>1996</year>
+			<selection>I'm a bride</selection>
+		</Login>
+	</Execution>
+</Automation>
